@@ -1,7 +1,7 @@
 {
   "name": "nicecoin",
   "version": "1.0.0",
-  "description": "",
+  "description": "In this repository, we create a new ERC-20 standard based cryptocurrency token that you can deploy to the ethereum network using a smart contract.",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.4.2"
+      "@openzeppelin/contracts": "^4.4.2"
+    }
   }
-}
